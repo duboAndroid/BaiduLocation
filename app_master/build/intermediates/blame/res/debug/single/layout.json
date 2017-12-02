@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\layout\\locationconfig.xml"
+    }
+]
