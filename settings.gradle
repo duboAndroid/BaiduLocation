@@ -1,1 +1,1 @@
-include ':app_master', ':myTest'
+include ':app_master', ':myTest', ':BaiduMapsApiASDemo'

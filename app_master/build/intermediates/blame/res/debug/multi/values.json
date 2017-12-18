@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 211
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 307
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,13 +106,13 @@
                     "endOffset": 360
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 157,
+                        "startOffset": 162,
                         "endColumn": 52,
-                        "endOffset": 205
+                        "endOffset": 210
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 408
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 47,
-                        "endOffset": 99
+                        "endOffset": 102
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 514
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 707,
+                        "startOffset": 721,
                         "endColumn": 105,
-                        "endOffset": 808
+                        "endOffset": 822
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 562
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 353,
+                        "startOffset": 362,
                         "endColumn": 47,
-                        "endOffset": 396
+                        "endOffset": 405
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 635
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 401,
+                        "startOffset": 411,
                         "endColumn": 72,
-                        "endOffset": 469
+                        "endOffset": 479
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 685
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 303,
+                        "startOffset": 311,
                         "endColumn": 49,
-                        "endOffset": 348
+                        "endOffset": 356
                     }
                 }
             },
@@ -221,14 +221,14 @@
                     "endOffset": 1105
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 813,
+                        "startOffset": 828,
                         "endLine": 28,
                         "endColumn": 28,
-                        "endOffset": 1228
+                        "endOffset": 1256
                     }
                 }
             },
@@ -241,13 +241,13 @@
                     "endOffset": 1158
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 104,
+                        "startOffset": 108,
                         "endColumn": 52,
-                        "endOffset": 152
+                        "endOffset": 156
                     }
                 }
             },
@@ -260,13 +260,13 @@
                     "endOffset": 1253
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 516,
+                        "startOffset": 528,
                         "endColumn": 94,
-                        "endOffset": 606
+                        "endOffset": 618
                     }
                 }
             },
@@ -280,14 +280,14 @@
                     "endOffset": 1465
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1233,
+                        "startOffset": 1262,
                         "endLine": 35,
                         "endColumn": 17,
-                        "endOffset": 1440
+                        "endOffset": 1475
                     }
                 }
             },
@@ -300,13 +300,13 @@
                     "endOffset": 1534
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1445,
+                        "startOffset": 1481,
                         "endColumn": 68,
-                        "endOffset": 1509
+                        "endOffset": 1545
                     }
                 }
             },
@@ -319,13 +319,13 @@
                     "endOffset": 1576
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 474,
+                        "startOffset": 485,
                         "endColumn": 41,
-                        "endOffset": 511
+                        "endOffset": 522
                     }
                 }
             },
@@ -338,13 +338,13 @@
                     "endOffset": 1672
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 611,
+                        "startOffset": 624,
                         "endColumn": 95,
-                        "endOffset": 702
+                        "endOffset": 715
                     }
                 }
             },
@@ -357,13 +357,13 @@
                     "endOffset": 1719
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 210,
+                        "startOffset": 216,
                         "endColumn": 46,
-                        "endOffset": 252
+                        "endOffset": 258
                     }
                 }
             },
@@ -376,13 +376,13 @@
                     "endOffset": 1765
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 257,
+                        "startOffset": 264,
                         "endColumn": 45,
-                        "endOffset": 298
+                        "endOffset": 305
                     }
                 }
             },
@@ -396,14 +396,14 @@
                     "endOffset": 2056
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -417,14 +417,14 @@
                     "endOffset": 2216
                 },
                 "from": {
-                    "file": "C:\\Users\\dubo\\Desktop\\MyApplication\\app_master\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\dubo\\Desktop\\baiduLocation\\app_master\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             }
